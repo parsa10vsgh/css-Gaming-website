@@ -1,14 +1,14 @@
 @font-face {
     font-family:Bold;
-    src: url('../assets/fonts/Poppins-Bold.ttf');
+    src: url('..assets/fonts/Poppins-Bold.ttf');
 }
 @font-face {
     font-family:Extrabold;
     src: url('../assets/fonts/Poppins-ExtraBold.ttf');
 }
 @font-face {
-    font-family:Medium;
-    src: url('../assets/fonts/Poppins-medium.ttf');
+    font-family:medium;
+    src: url('../assets/fonts/Poppins-Medium.ttf');
 }
 @font-face {
     font-family:Regular;
@@ -68,7 +68,7 @@ a{
     opacity: 0px;
     border-radius: 40px;
     padding: 10px;
-    font-family:Medium;
+    font-family:medium;
     font-size: 13px;
 }
 #article3{
